@@ -128,6 +128,8 @@ This section includes links to ChatGPT prompt tools and resources.
 
 - [Futurepedia - The Largest AI Tools Directory | Home](https://www.futurepedia.io/) - A comprehensive directory of AI tools and resources.
 
+- [RespawnStack](https://respawnstack.com) - A directory of AI tools for game development with sourced pricing, commercial-use notes, and license caveats.
+
 - [DoMore.ai - Your Personalized AI Tools Catalog](https://domore.ai/) - A personalized catalog of AI tools tailored to your needs.
 
 - [CodeWP - AI WordPress Code Generator & Assistant](https://codewp.ai/) - An AI-powered WordPress code generator and assistant.
